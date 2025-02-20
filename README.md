@@ -4,6 +4,8 @@
 * is how
 * you make
 * a list
-![the github logo](https://en.m.wikipedia.org/wiki/File:Octicons-mark-github.svg)
+
+![fish picture](http://maps.google.com/mapfiles/kml/shapes/fishing.png)
+
 [gitHub.com](https://github.com/)
 
